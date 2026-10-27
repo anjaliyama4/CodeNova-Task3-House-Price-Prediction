@@ -1,0 +1,19 @@
+
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Local datasets and downloaded data
+data/
+datasets/
+*.arff
+
+# Editor and operating system files
+.vscode/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,16 @@
+feature,importance
+numeric__OverallQual,0.5626832953532588
+numeric__GrLivArea,0.12377207413217996
+numeric__TotalBsmtSF,0.033373238847266506
+numeric__2ndFlrSF,0.030503490375068176
+numeric__BsmtFinSF1,0.02826166412649934
+numeric__1stFlrSF,0.02731541289249588
+numeric__LotArea,0.018050090306216827
+numeric__GarageArea,0.015718595576471088
+numeric__GarageCars,0.014301470464792227
+numeric__YearBuilt,0.011618114141177565
+numeric__LotFrontage,0.008190814503718126
+numeric__YearRemodAdd,0.0072103943781627435
+numeric__FullBath,0.0065465734678614666
+categorical__BsmtQual_Ex,0.006288652201546622
+categorical__GarageFinish_Unf,0.006006592725541696
