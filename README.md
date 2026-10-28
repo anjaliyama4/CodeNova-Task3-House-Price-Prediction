@@ -132,7 +132,7 @@ CodeNova-Task3-House-Price-Prediction/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/CodeNova-Task3-House-Price-Prediction.git
+git clone https://github.com/anjaliyama4/CodeNova-Task3-House-Price-Prediction.git
 cd CodeNova-Task3-House-Price-Prediction
 ```
 
