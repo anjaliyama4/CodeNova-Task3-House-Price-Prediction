@@ -211,3 +211,6 @@ The Random Forest model substantially outperformed the median baseline on this h
 
 **Project:** CodeNova AI/ML Internship — Task 3  
 **Topic:** House Price Prediction using Regression
+## Execution Screenshot
+
+![Task 3 House Price Prediction Execution](screenshot/task3-execution.png)
